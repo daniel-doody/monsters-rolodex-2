@@ -200,3 +200,4 @@ class NewClass2 extends Component {
 // the callback is going to be the Effect that we want to happen inside of our functional component
 // the Array of Dependencies is most likely going to be one of our useState values, or a prop
 // You only run the Callback Function if one of the values in the Dependency Array has changed
+// Push to GitHub after each component is updated
